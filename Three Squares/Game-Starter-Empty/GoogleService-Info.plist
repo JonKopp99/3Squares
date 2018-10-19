@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>833240689696-9h9gq3a7qtjgi1g2lanr5hil4m2vk6jn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833240689696-9h9gq3a7qtjgi1g2lanr5hil4m2vk6jn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3lf5gRss3dkzPUjB1QH0aZ4YMbw-A1vA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833240689696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Jonathan-Kopp.ThreeSquares</string>
+	<key>PROJECT_ID</key>
+	<string>three-sqaures</string>
+	<key>STORAGE_BUCKET</key>
+	<string>three-sqaures.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833240689696:ios:64f43c5b68b2c177</string>
+	<key>DATABASE_URL</key>
+	<string>https://three-sqaures.firebaseio.com</string>
+</dict>
+</plist>

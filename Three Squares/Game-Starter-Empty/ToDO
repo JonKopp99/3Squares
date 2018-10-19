@@ -1,0 +1,100 @@
+To DO
+
+
+- Fix Constraints for all devices
+- Layout subviews for play screen!
+- App Icon
+- Better loading screen
+
+
+
+
+DONE
+- add Health drop animaton
+- Work on difficulty algorithm YES
+- Fix Scoreboard uglyness YES
+- Add animation to square YES
+- Switch restart for home.
+- Fix Add HighScore Button & only pops up if actually new highscore.
+- Better UI layout ALMOST
+- Make death less flashy
+- Fix heart animation
+- Add sound effects
+- Make touch method more programatic
+Algorithm for squares
+-As score goes up the interval timer should drop
+score * x = y
+score = 50
+(score*.01)
+
+
+
+
+50 * x = 0.3
+x = 0.006
+
+100 * x = 0.2
+x = .002
+
+150 * x = 0.17
+x = .00113333333
+
+200 * x = 0.15
+x = .00075
+
+250 * x = .13
+x = .00052
+
+x * 50 = .2
+x = 0.004
+scoreCtr = 0.5
+score -= 0.004
+score -
+if(self.score<50)
+{
+moveInterval = 0.5
+}
+else if(self.score>50)
+{
+moveInterval = 0.3
+}
+else if(self.score>100)
+{
+moveInterval = 0.2
+}
+else if(self.score>150)
+{
+moveInterval = 0.17
+}
+else if(self.score>200)
+{
+moveInterval = 0.15
+}
+else if(self.score>250)
+{
+moveInterval = 0.13
+}
+else if(self.score>300)
+{
+moveInterval = 0.11
+}
+else if(self.score>350)
+{
+moveInterval = 0.09
+}
+else if(self.score>400)
+{
+moveInterval = 0.07
+}
+else if(self.score>450)
+{
+moveInterval = 0.05
+}
+else if(self.score>500)
+{
+moveInterval = 0.03
+}
+else if(self.score>600)
+{
+moveInterval = 0.01
+}

@@ -1,0 +1,6 @@
+framework module Pods_Game_Starter_Empty {
+  umbrella header "Pods-Game-Starter-Empty-umbrella.h"
+
+  export *
+  module * { export * }
+}
