@@ -2,7 +2,7 @@
 
 Download and open in XCode10 to play!
 
-![](https://lh3.googleusercontent.com/menbSMi_om6VymGTloBBwwZ7UQvlY_KpG8fYMkTtt-5kZ3stxUFAYS4169_s2W_RZdgXvWpSqD0)
+![](https://lh3.googleusercontent.com/S4CcoTjEUeqN3usdhj0OI16SQViitlwLWRqVHPs93bSZFzgUlJ5xDIGXX3uqiMKs1uFpc2SguKI)
 
 **How to play**
 
